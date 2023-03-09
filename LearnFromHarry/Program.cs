@@ -13,7 +13,9 @@
             bool myBool = false;
             Console.WriteLine(myBool);
 
-            //
+            //Char
+            char myChar = 'D';
+            Console.WriteLine(myChar);
         }
     }   
 }
